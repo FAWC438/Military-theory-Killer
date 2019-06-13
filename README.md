@@ -24,11 +24,3 @@ Military-theory-Killer(军 理 杀 手)
 ### 3.运行程序，打开生成的`答案.txt`
 ![](https://github.com/FAWC-bupt/img/blob/master/3.png)<br>
     接下来就不用我说了吧
-## 致看到最后的你
-在期末考试期间做的这个小东西真的实属不易，希望真正得到帮助的同学和朋友们能多多支持，以下是捐献图片，请给苦逼的学生一些关怀吧/(ㄒoㄒ)/~~<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-![](https://github.com/FAWC-bupt/img/blob/master/6.jpg)<br>
