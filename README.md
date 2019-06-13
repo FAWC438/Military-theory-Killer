@@ -17,6 +17,8 @@
 在考试页面<br>
 ![](https://github.com/FAWC-bupt/img/blob/master/5.jpg)<br>
 点击Ctrl+S即可保存网页源码（.html）
+        注意，html文件格式应为：`作业考试_在线学堂_智慧树.html`
+本程序仅支持智慧树网课
 ### 2.将网页源码与exe文件放在同一文件目录下
 ### 3.运行程序，打开生成的`答案.txt`
     接下来就不用我说了吧
