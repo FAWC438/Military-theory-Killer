@@ -14,7 +14,7 @@ Military-theory-Killer(军 理 杀 手)
 
 ## 详细用法
 ### 1.获取网页源码（.html文件）
-    此处请使用Chrome，Firefox，IE或其它Chromium内核的浏览器，经测试win10自带的Edge操作较为繁琐
+    此处请使用Chrome（强烈推荐！！！），Firefox，IE或其它Chromium内核的浏览器，经测试win10自带的Edge操作较为繁琐
 在考试页面<br>
 ![](https://github.com/FAWC-bupt/img/blob/master/5.jpg)<br>
 点击Ctrl+S即可保存网页源码（若非.html文件，请直接通过重命名更改后缀）
