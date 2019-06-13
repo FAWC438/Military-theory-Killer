@@ -1,4 +1,4 @@
-# Military-theory-Killer(军 理 杀 手)
+Military-theory-Killer(军 理 杀 手)
 =========
 ## 写在前面
     大家好，我是来自bupt的莫的感情的军理杀手。
