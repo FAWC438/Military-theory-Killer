@@ -7,7 +7,7 @@
     *本软件仅供个人学习参考，请勿`大规模`传播，更不要发布在社交平台上<br>
     *该软件仅仅是个非常简单的爬虫，并非歪门邪道，不公布源码的原因是防止滥用<br><br>
 以下是实际使用的结果<br>
-    请务必详细检查，此为参考答案，并不能保证100%正确
+    `请务必详细检查，此为参考答案，并不能保证100%正确`
 ![](https://github.com/FAWC-bupt/img/blob/master/1.png)<br>
 ![](https://github.com/FAWC-bupt/img/blob/master/2.png)<br>
 ![](https://github.com/FAWC-bupt/img/blob/master/3.png)<br>
