@@ -7,15 +7,15 @@
 *本软件仅供个人学习参考，请勿`大规模`传播，更不要发布在社交平台上<br>
 *该软件仅仅是个非常简单的爬虫，并非歪门邪道，不公布源码的原因是防止滥用<br>
 以下是实际使用的结果<br>
-![](https://github.com/FAWC-bupt/img/blob/master/1.png"成绩演示1")<br>
-![](https://github.com/FAWC-bupt/img/blob/master/2.png"成绩演示2")<br>
-![](https://github.com/FAWC-bupt/img/blob/master/3.png"txt中的格式")<br>
+![](https://github.com/FAWC-bupt/img/blob/master/1.png)<br>
+![](https://github.com/FAWC-bupt/img/blob/master/2.png)<br>
+![](https://github.com/FAWC-bupt/img/blob/master/3.png)<br>
 
 ## 详细用法
 ### 1.获取网页源码（.html文件）
     此处请使用Chrome，Firefox或其它Chromium内核的浏览器，经测试IE与Edge的操作极为繁琐
 在考试页面<br>
-![](https://github.com/FAWC-bupt/img/blob/master/5.jpg"考试页面")<br>
+![](https://github.com/FAWC-bupt/img/blob/master/5.jpg)<br>
 点击Ctrl+S即可保存网页源码（.html）
 ### 2.将网页源码与exe文件放在同一文件目录下
 ### 3.运行程序，打开生成的`答案.txt`
