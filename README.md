@@ -13,7 +13,7 @@
 
 ## 详细用法
 ### 1.获取网页源码（.html文件）
-    此处请使用Chrome，Firefox或其它Chromium内核的浏览器，经测试IE与Edge的操作极为繁琐
+    此处请使用Chrome，Firefox，IE或其它Chromium内核的浏览器，经测试win10自带的Edge操作极为繁琐
 在考试页面<br>
 ![](https://github.com/FAWC-bupt/img/blob/master/5.jpg)<br>
 点击Ctrl+S即可保存网页源码（.html）
@@ -22,5 +22,9 @@
     接下来就不用我说了吧
 ## 致看到最后的你
 在期末考试期间做的这个小东西真的实属不易，希望真正得到帮助的同学和朋友们能多多支持，以下是捐献图片，请给苦逼的学生一些关怀吧/(ㄒoㄒ)/~~<br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
 ![](https://github.com/FAWC-bupt/img/blob/master/4.jpg)<br>
