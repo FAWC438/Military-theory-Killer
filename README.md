@@ -31,4 +31,4 @@ Military-theory-Killer(军 理 杀 手)
 <br>
 <br>
 <br>
-![](https://github.com/FAWC-bupt/img/blob/master/4.jpg)<br>
+![](https://github.com/FAWC-bupt/img/blob/master/6.jpg)<br>
