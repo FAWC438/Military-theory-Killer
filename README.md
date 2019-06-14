@@ -11,6 +11,7 @@ Military-theory-Killer(军 理 杀 手)
     `请务必详细检查，此为参考答案，并不能保证100%正确`
 ![](https://github.com/FAWC-bupt/img/blob/master/1.png)<br>
 ![](https://github.com/FAWC-bupt/img/blob/master/2.png)<br>
+![](https://github.com/FAWC-bupt/img/blob/master/4.png)<br>
 
 ## 详细用法
 ### 1.获取网页源码（.html文件）
